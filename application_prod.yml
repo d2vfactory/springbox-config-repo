@@ -5,4 +5,4 @@ management:
         include: "*"
 
 greeting:
-  Hello %s! prod
+  Hello %s! git prod
